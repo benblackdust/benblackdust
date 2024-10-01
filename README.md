@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My Name is Benjamin Bui-Dang. I am an Artificial Intelligence enthusiast. I look forward to utilizing Github to it's fullest extent
 
 <!--
 **benblackdust/benblackdust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
